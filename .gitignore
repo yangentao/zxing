@@ -16,3 +16,4 @@ captures/
 .idea/workspace.xml
 .idea/
 #*.jks
+.DS_Store
